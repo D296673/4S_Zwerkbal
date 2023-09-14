@@ -85,3 +85,9 @@ label{
 .form-control{
     min-width: 200px;
 }
+.box{
+    border: #f9b600 1px solid;
+    display: flex;
+    
+    
+}
