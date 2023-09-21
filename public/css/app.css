@@ -88,6 +88,6 @@ label{
 .box{
     border: #f9b600 1px solid;
     display: flex;
-    
+    align-items: row;
     
 }

@@ -14,11 +14,11 @@
     <h1>Dachboard</h1>
     <p>Zwerkbal (Engels: Quidditch) is een sport voor tovenaars uit de Harry Potterboeken van J.K. Rowling. In de wereld van Harry Potter is Zwerkbal een populaire sport: veel mensen praten erover mee en zijn zeer enthousiast als er een groot toernooi wordt gespeeld. Ook heeft iedere heks of tovenaar wel een favoriet Zwerkbalteam.</p>
     <div class="box toernooi">
-        <P>Aantal aankomende toernooien:</P>
+        <h1>Aantal aankomende toernooien:</h1>
         <p>5</p>
     </div>
     <div class="box spelers">
-        <P>Aantal Spelers</P>
+        <h1>Aantal Spelers:</h1>
         <p>26</p>
     </div>
     <div class="box img">
